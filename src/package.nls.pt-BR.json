@@ -18,7 +18,7 @@
 	"views.terminalMenu.label": "Kilo Code",
 	"views.sidebar.name": "Kilo Code",
 	"command.mcpServers.title": "Servidores MCP",
-	"command.prompts.title": "Prompts",
+	"command.prompts.title": "Modos",
 	"command.history.title": "Histórico",
 	"command.openInEditor.title": "Abrir no Editor",
 	"command.settings.title": "Configurações",
@@ -29,5 +29,6 @@
 	"settings.vsCodeLmModelSelector.description": "Configurações para a API do modelo de linguagem do VSCode",
 	"settings.vsCodeLmModelSelector.vendor.description": "O fornecedor do modelo de linguagem (ex: copilot)",
 	"settings.vsCodeLmModelSelector.family.description": "A família do modelo de linguagem (ex: gpt-4)",
-	"settings.customStoragePath.description": "Caminho de armazenamento personalizado. Deixe vazio para usar o local padrão. Suporta caminhos absolutos (ex: 'D:\\KiloCodeStorage')"
+	"settings.customStoragePath.description": "Caminho de armazenamento personalizado. Deixe vazio para usar o local padrão. Suporta caminhos absolutos (ex: 'D:\\KiloCodeStorage')",
+	"settings.rooCodeCloudEnabled.description": "Habilitar Roo Code Cloud."
 }
